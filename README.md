@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnishcs221156&label=Profile%20views&color=0e75b6&style=flat" alt="rajnishcs221156" /> </p>
 
-- 🌱 I’m currently learning **Softwear Developer  **
+- 🌱 I’m currently learning **Software Developer  **
 
 - 💬 Ask me about **about Ai**
 
